@@ -1,6 +1,6 @@
 # TerraKubeSphere III: MultiCloud Connections with Terraform
 
-_At the end of this README, you can find the VideoTutorial._
+[To see the publication in LinkedIn with the file ](https://github.com/JavierRamirezMoral/DevSecOps-Project-Netflix/blob/main/DOCUMENTACI%C3%93N/JavierRam%C3%ADrezMoral%20DevSecOps%20Project%20-%20Deploy%20Netflix%20on%20Kubernetes.pdf)_
 
 ## Introduction.
 <div align="justify"> 
