@@ -26,6 +26,8 @@ someone else who may want to contribute and help complete it correctly or simply
 could implement this solution.
 </div> <br>
 
+![Alt text](https://github.com/JavierRamirezMoral/TerraKubeSphere-AWS/blob/main/Images/Bedrock.png)
+
 ### Design.
 <div align="justify"> 
 Since AWS is where our shared private resources reside, it will serve as a hub. We can peer 
@@ -37,6 +39,8 @@ hostnames. For this, we’ll use AWS Simple AD. This works for the configuration
 here, but for more complicated networks, you may need to run your own DNS. The resulting 
 network looks like this:
 </div> <br>
+
+![Alt text](https://github.com/JavierRamirezMoral/TerraKubeSphere-AWS/blob/main/Images/Bedrock.png)
 
 ## Objectives.
 
@@ -80,6 +84,8 @@ invest in physical hardware. </div> <br>
 - Auto Scaling: Allows resources to automatically adjust capacity based on demand, ensuring optimal performance without manual intervention.
 - Agile Development: Facilitates agile development practices with tools like AWS CodePipeline and AWS CodeDeploy, enabling continuous deployment and automation of the development lifecycle.
 
+![Alt text](https://github.com/JavierRamirezMoral/TerraKubeSphere-AWS/blob/main/Images/Bedrock.png)
+
 ## Azure
 <div align="justify"> Azure refers to Microsoft Azure, which is Microsoft’s cloud services platform. It is a suite of 
 cloud services that includes storage, networking, databases, analytics, artificial intelligence, 
@@ -95,6 +101,8 @@ Microsoft. </div> <br>
 - Compliance and Certifications: Azure complies with numerous security and privacy standards and has globally recognized compliance certifications, making it easier to meet industry-specific regulations.
 - Agile Development: It facilitates agile development practices with tools like Azure DevOps, which includes development, testing, continuous delivery capabilities, and more
 
+![Alt text](https://github.com/JavierRamirezMoral/TerraKubeSphere-AWS/blob/main/Images/Bedrock.png)
+
 ## Google Cloud Plataform
 <div align="justify"> Google Cloud Platform (GCP) is a suite of cloud computing services provided by Google. It 
 enables organizations to build, deploy, and scale applications, websites, and services on the 
@@ -108,6 +116,8 @@ same infrastructure that powers Google’s products. Here are its main features 
 - Open Source Friendly: Strong support for open-source technologies and hybrid/multicloud environments.
 - Reliability: High availability and redundancy across its services, backed by Service Level Agreements (SLAs).
 
+![Alt text](https://github.com/JavierRamirezMoral/TerraKubeSphere-AWS/blob/main/Images/Bedrock.png)
+
 ## Terraform
 <div align="justify">Terraform is an open-source tool developed by HashiCorp that is used for infrastructure 
 automation. It allows users to define and provision infrastructure and cloud services 
@@ -119,6 +129,8 @@ Some of the key features of Terraform include: </div> <br>
 - Multiplatform: Terraform is compatible with multiple cloud service providers such as AWS, Azure, Google Cloud Platform, and others, as well as on-premise service providers. This allows the management of heterogeneous and multicloud infrastructures.
 - Code Reuse: Modules in Terraform allow for the reuse of configurations. You can define modules to encapsulate and share configuration fragments, making standardization and reuse easier in larger projects.
 - Infrastructure Lifecycle: Terraform manages the complete lifecycle of infrastructure, including the creation, updating, and destruction of resources. This provides a controlled and predictable way to manage infrastructure.
+
+![Alt text](https://github.com/JavierRamirezMoral/TerraKubeSphere-AWS/blob/main/Images/Bedrock.png)
 
 ## Conclusion 
 <div align="justify">
