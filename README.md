@@ -64,4 +64,33 @@ seamless service discovery.
 - Design the network to ensure high availability and redundancy, minimizing the risk of single points of failure.
 - Implement monitoring and alerting mechanisms to detect and respond to any issues in the VPN connections or DNS resolution promptly.
 
-By achieving these objectives, the project will demonstrate the effective use of Terraform for managing a complex multi-cloud network setup, ensuring secure, reliable, and scalable connectivity between AWS, Azure, and GCP.
+<div align="justify"> By achieving these objectives, the project will demonstrate the effective use of Terraform for managing a complex multi-cloud network setup, ensuring secure, reliable, and scalable connectivity between AWS, Azure, and GCP. </div> <br>
+
+## AWS
+<div align="justify"> Amazon Web Services (AWS) is a cloud services platform offered by Amazon.com, providing 
+a wide range of computing infrastructure, storage, database, analytics, artificial intelligence, 
+machine learning, Internet of Things (IoT), security, among others. AWS enables individuals, 
+businesses, and organizations to deploy and scale applications and services without the need to 
+invest in physical hardware. </div> <br>
+
+* Elasticity and Scalability: AWS allows resources to scale easily, either increasing or decreasing capacity as project needs dictate. This ensures efficiency and cost savings.
+- Pay-Per-Use: It utilizes a pay-per-use model, where you only pay for the resources, you consume. This eliminates the need for significant investments in hardware.
+- Global Availability: AWS has data centers distributed worldwide, enabling high  availability and redundancy for your applications.
+- Variety of Services: It offers a wide variety of services, from computing and storage to advanced services such as machine learning, artificial intelligence, and data analytics.
+- Auto Scaling: Allows resources to automatically adjust capacity based on demand, ensuring optimal performance without manual intervention.
+- Agile Development: Facilitates agile development practices with tools like AWS CodePipeline and AWS CodeDeploy, enabling continuous deployment and automation of the development lifecycle.
+
+## Azure
+<div align="justify"> Azure refers to Microsoft Azure, which is Microsoft’s cloud services platform. It is a suite of 
+cloud services that includes storage, networking, databases, analytics, artificial intelligence, 
+development services, and more. Microsoft Azure enables businesses to build, deploy, and 
+manage applications and services through a global network of data centers managed by 
+Microsoft. </div> <br>
+
+- Scalability: Azure provides the ability to scale resources flexibly according to needs, whether by increasing or decreasing compute, storage, or network capacity.
+- Diversity of Services: It offers a wide variety of services, including compute, storage, databases, artificial intelligence, machine learning, IoT, data analytics, development services, and more.
+- Hybrid and Multicloud: Azure enables the integration of cloud and on-premises  environments, facilitating the creation of hybrid solutions. Additionally, it supports deployment in multicloud environments, allowing users to integrate services from other platforms into their solutions.
+- Advanced Security: It provides tools and services to ensure the security of data and applications, including Azure Active Directory for identity management, Azure
+- Security Center for security monitoring, and features such as encryption and access control.
+- Compliance and Certifications: Azure complies with numerous security and privacy standards and has globally recognized compliance certifications, making it easier to meet industry-specific regulations.
+- Agile Development: It facilitates agile development practices with tools like Azure DevOps, which includes development, testing, continuous delivery capabilities, and more
