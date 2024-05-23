@@ -94,3 +94,28 @@ Microsoft. </div> <br>
 - Security Center for security monitoring, and features such as encryption and access control.
 - Compliance and Certifications: Azure complies with numerous security and privacy standards and has globally recognized compliance certifications, making it easier to meet industry-specific regulations.
 - Agile Development: It facilitates agile development practices with tools like Azure DevOps, which includes development, testing, continuous delivery capabilities, and more
+
+## Google Cloud Plataform
+<div align="justify"> Google Cloud Platform (GCP) is a suite of cloud computing services provided by Google. It 
+enables organizations to build, deploy, and scale applications, websites, and services on the 
+same infrastructure that powers Google’s products. Here are its main features in general terms: </div> <br>
+
+- Scalability: GCP offers highly scalable services that can handle massive amounts of data and traffic.
+- Global Network: Leverages Google’s global infrastructure to provide low-latency, high-performance connectivity.
+- Security: Provides robust security features, including encryption, IAM, and compliance with various standards and regulations.
+- Cost Efficiency: Offers competitive pricing and various cost management tools, such as sustained use discounts and committed use contracts.
+- Machine Learning and AI: Advanced tools and services for building, training, and deploying machine learning models.
+- Open Source Friendly: Strong support for open-source technologies and hybrid/multicloud environments.
+- Reliability: High availability and redundancy across its services, backed by Service Level Agreements (SLAs).
+
+## Terraform
+<div align="justify">Terraform is an open-source tool developed by HashiCorp that is used for infrastructure 
+automation. It allows users to define and provision infrastructure and cloud services 
+declaratively by describing the configuration in an easy-to-understand and maintain format.
+Some of the key features of Terraform include: </div> <br>
+
+- Infrastructure as Code (IaC): Terraform follows the IaC principle, meaning that  infrastructure is defined through code instead of manual configurations. This facilitates  automation and efficient infrastructure management.
+- Declarative: Terraform configuration describes the desired state of the infrastructure, not the series of steps to achieve that state. Terraform determines the necessary changes and applies them.
+- Multiplatform: Terraform is compatible with multiple cloud service providers such as AWS, Azure, Google Cloud Platform, and others, as well as on-premise service providers. This allows the management of heterogeneous and multicloud infrastructures.
+- Code Reuse: Modules in Terraform allow for the reuse of configurations. You can define modules to encapsulate and share configuration fragments, making standardization and reuse easier in larger projects.
+- Infrastructure Lifecycle: Terraform manages the complete lifecycle of infrastructure, including the creation, updating, and destruction of resources. This provides a controlled and predictable way to manage infrastructure.
