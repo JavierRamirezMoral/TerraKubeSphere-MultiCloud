@@ -26,7 +26,7 @@ someone else who may want to contribute and help complete it correctly or simply
 could implement this solution.
 </div> <br>
 
-![Alt text](https://github.com/JavierRamirezMoral/TerraKubeSphere-AWS/blob/main/Images/Bedrock.png)
+![Alt text](https://github.com/JavierRamirezMoral/TerraKubeSphere-MultiCloud/blob/main/Images/MultiCloud%20Connections%20with%20Terraform.png)
 
 ### Design.
 <div align="justify"> 
@@ -40,7 +40,7 @@ here, but for more complicated networks, you may need to run your own DNS. The r
 network looks like this:
 </div> <br>
 
-![Alt text](https://github.com/JavierRamirezMoral/TerraKubeSphere-AWS/blob/main/Images/Bedrock.png)
+![Alt text](https://github.com/JavierRamirezMoral/TerraKubeSphere-MultiCloud/blob/main/Images/VPN.png)
 
 ## Objectives.
 
@@ -84,7 +84,7 @@ invest in physical hardware. </div> <br>
 - Auto Scaling: Allows resources to automatically adjust capacity based on demand, ensuring optimal performance without manual intervention.
 - Agile Development: Facilitates agile development practices with tools like AWS CodePipeline and AWS CodeDeploy, enabling continuous deployment and automation of the development lifecycle.
 
-![Alt text](https://github.com/JavierRamirezMoral/TerraKubeSphere-AWS/blob/main/Images/Bedrock.png)
+![Alt text](https://github.com/JavierRamirezMoral/TerraKubeSphere-MultiCloud/blob/main/Images/aws2.png)
 
 ## Azure
 <div align="justify"> Azure refers to Microsoft Azure, which is Microsoft’s cloud services platform. It is a suite of 
@@ -101,7 +101,7 @@ Microsoft. </div> <br>
 - Compliance and Certifications: Azure complies with numerous security and privacy standards and has globally recognized compliance certifications, making it easier to meet industry-specific regulations.
 - Agile Development: It facilitates agile development practices with tools like Azure DevOps, which includes development, testing, continuous delivery capabilities, and more
 
-![Alt text](https://github.com/JavierRamirezMoral/TerraKubeSphere-AWS/blob/main/Images/Bedrock.png)
+![Alt text](https://github.com/JavierRamirezMoral/TerraKubeSphere-MultiCloud/blob/main/Images/azure.png)
 
 ## Google Cloud Plataform
 <div align="justify"> Google Cloud Platform (GCP) is a suite of cloud computing services provided by Google. It 
@@ -116,7 +116,7 @@ same infrastructure that powers Google’s products. Here are its main features 
 - Open Source Friendly: Strong support for open-source technologies and hybrid/multicloud environments.
 - Reliability: High availability and redundancy across its services, backed by Service Level Agreements (SLAs).
 
-![Alt text](https://github.com/JavierRamirezMoral/TerraKubeSphere-AWS/blob/main/Images/Bedrock.png)
+![Alt text](https://github.com/JavierRamirezMoral/TerraKubeSphere-MultiCloud/blob/main/Images/gcp.png)
 
 ## Terraform
 <div align="justify">Terraform is an open-source tool developed by HashiCorp that is used for infrastructure 
@@ -130,7 +130,7 @@ Some of the key features of Terraform include: </div> <br>
 - Code Reuse: Modules in Terraform allow for the reuse of configurations. You can define modules to encapsulate and share configuration fragments, making standardization and reuse easier in larger projects.
 - Infrastructure Lifecycle: Terraform manages the complete lifecycle of infrastructure, including the creation, updating, and destruction of resources. This provides a controlled and predictable way to manage infrastructure.
 
-![Alt text](https://github.com/JavierRamirezMoral/TerraKubeSphere-AWS/blob/main/Images/Bedrock.png)
+![Alt text](https://github.com/JavierRamirezMoral/TerraKubeSphere-MultiCloud/blob/main/Images/terra.png)
 
 ## Conclusion 
 <div align="justify">
